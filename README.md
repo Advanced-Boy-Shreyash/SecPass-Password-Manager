@@ -1,6 +1,10 @@
 
 # SecPass - Your own Secure Password Manager
 
+*Note: Don't Enter your sensitive data on the link below as it is stored in MongoDB and this app not have any account login so your data might be visible to every single person who wants to try this.*
+Try it out (Don't enter your sensitive data as it will be stored on MongoDB): https://sec-pass.vercel.app/ 
+Try it out (Your data will be stored in cache): sec-pass-local.vercel.app
+
 ## Overview
 SecPass is a lightweight password manager designed to help you securely store and manage your passwords on your local MongoDB. It provides a simple and intuitive interface for organizing your passwords without the need for creating accounts or master passwords.
 
